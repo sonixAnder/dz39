@@ -1,0 +1,26 @@
+Частота слов:
+and: 1
+anymore: 1
+away: 1
+barked: 1
+brown: 1
+day: 1
+dog: 3
+fox: 4
+however: 1
+jumps: 1
+later: 1
+lazy: 1
+loudly: 1
+not: 1
+of: 1
+over: 1
+quick: 1
+ran: 1
+returned: 1
+scared: 1
+that: 1
+the: 7
+was: 1
+
+Наиболее часто встречающееся слово: the (7 раз)
